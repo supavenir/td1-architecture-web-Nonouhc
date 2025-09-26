@@ -1,1 +1,4 @@
-
+1- Méthodes GET et POST:
+Les requetes GET ont pour role uniquement la recuperation de données contrairement a la methode POST qui est plus utilise pour envoyer une entite vers la ressource indiquée.
+-par exemple la methode get va etre utilise par les clients tels que des navigateurs pour justment recupere des infos.
+-Par exemple la Methode POST va envoyer des données au serveur exemple soumettre un formulaire pour une entreprise POST envoie des données au serveur (ex : soumettre un formulaire).
