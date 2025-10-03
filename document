@@ -26,6 +26,10 @@ existant. Creation de nouveaute et que des client et services les traitent .
 
 4- Le fait que http soit un protocole sans etat c est a dire qu il n enregistre aucune information sur les connexions précedentes or le développement d'applications Web doit souvent maintenir l'état.
 
-5- Une URL est composée de 5 parties:  ; le protocole, le sous-domaine, le nom de domaine principal, le domaine de deuxième niveau (SLD – Second-level Domain en anglais) et le répertoire.
+5- Une URL est composée de 5 parties: -le protocole 
+                                      -le sous-domaine 
+                                      -le nom de domaine principal 
+                                      -le domaine de deuxième niveau (SLD – Second-level Domain en anglais) 
+                                      - le répertoire.
 
  
