@@ -22,7 +22,7 @@ Utilisation dans            Par défaut pour formulaires de recherche	          
 les formulaires HTML	
 
 3- le http est extensible du fait lorsqu'il est conçu pour pouvoir evoluer, être modifié ou bien enrichie sans casser ou perturber son fonctionnement 
-existant.
+existant. Creation de nouveaute et que des client et services les traitent . 
 
 4- Le fait que http soit un protocole sans etat c est a dire qu il n enregistre aucune information sur les connexions précedentes or le développement d'applications Web doit souvent maintenir l'état.
 
